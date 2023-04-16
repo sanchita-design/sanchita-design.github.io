@@ -20,8 +20,8 @@ h2,.white{
 }
 
 a{
-    color: #7A7C80;
-    text-decoration: none;
+    color: blue;
+    text-decoration: underline;
 }
 /* section 1 */
 .section-1{
