@@ -3,22 +3,20 @@
 
 .grid-2{
     display: grid;
-    grid-template-columns: repeat(2,1fr); 
-   /*  grid-template-columns: 1fr 4fr */
+    grid-template-columns: repeat(2,1fr);
 }
 
 body{
     margin: 0;
     padding: 0;
     font-family: 'Roboto', sans-serif;
-    background-color: #fff; 
- /* background-color: #101214;*/
+    background-color: #101214;
     color: #7A7C80;
 
 }
 
 h2,.white{
-    color: #7A7C80;
+    color: #fff;
 }
 
 a{
@@ -49,7 +47,7 @@ a{
 /* section 2 */
 .section-2{
     padding-top: 10vh;
-    width: 80%;
+    width: 70%;
 }
 
 .section-2 h2{
@@ -73,13 +71,13 @@ a{
 /* animations / utilities */
 .section-2 a:hover{
     font-size: 1.3rem;
-    color: #101214;
+    color: #fff;
     cursor: pointer;
     transition: 0.2s;
 }
 
 .section-1 a:hover{
-    color: #101214;
+    color: #fff;
     cursor: pointer;
     transition: 0.3s;
 }
