@@ -71,13 +71,13 @@ a{
 /* animations / utilities */
 .section-2 a:hover{
     font-size: 1.3rem;
-    color: black;
+    color: green;
     cursor: pointer;
     transition: 0.2s;
 }
 
 .section-1 a:hover{
-    color: black;
+    color: green;
     cursor: pointer;
     transition: 0.3s;
 }
